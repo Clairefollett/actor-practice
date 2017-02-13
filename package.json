@@ -1,0 +1,20 @@
+{
+  "name": "actor-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clairefollett/actor-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clairefollett/actor-practice/issues"
+  },
+  "homepage": "https://github.com/Clairefollett/actor-practice#readme"
+}
